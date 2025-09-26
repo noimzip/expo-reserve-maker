@@ -58,7 +58,7 @@ function inputChange1(event){
 }
 
 function inputChange2(event){
-  reserve_title.innerText = setting_reserve_title.value;
+  reserve_title.innerText = setting_reserve_title.value + "　";
 }
 
 function inputChange3(event){
